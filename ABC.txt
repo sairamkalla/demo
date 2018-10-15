@@ -1,3 +1,8 @@
 Demo project
 This is the simple abc.txt file
+<<<<<<< HEAD
 There is not much problem i hope
+=======
+second line added, on a branch
+This is bound to be cause conflict
+>>>>>>> verybad
